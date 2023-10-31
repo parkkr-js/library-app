@@ -14,7 +14,7 @@ Build With Passion and Technology:
 Book Management: Add, update, delete, and search for books.
 User Management: User registration, login, profile management, and borrowing history.
 Book Borrowing & Returning: Simple and fast process for borrowing and returning books.
-### 🛠 Setup & Run:
+🛠 Setup & Run:
 Backend Setup:
 
 Navigate to the backend directory: cd backend
