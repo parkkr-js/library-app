@@ -10,7 +10,7 @@ Build With Passion and Technology:
   <img src="https://github.com/Park21700305/library-app/assets/93187535/59aeb9b9-42ce-4a2f-9539-8df4b6a01952" alt="Screenshot 1" width="730">
   <img src="https://github.com/Park21700305/library-app/assets/93187535/e800097c-4270-4d44-9422-b948b0018f5d" alt="Screenshot 2" width="730">
 </p>
-### 🚀 Features:
+🚀 Features:
 Book Management: Add, update, delete, and search for books.
 User Management: User registration, login, profile management, and borrowing history.
 Book Borrowing & Returning: Simple and fast process for borrowing and returning books.
